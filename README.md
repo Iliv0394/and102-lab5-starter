@@ -48,7 +48,7 @@ The following additional features are implemented:
 
 Here's a walkthrough of the implemented features:
 
-[ https://drive.google.com/file/d/17XfZ71f_kATGyb6BYnQWJxEagGXg5aSJ/view?usp=sharing ]
+https://youtube.com/shorts/_a6sfbPwjG4?feature=share
 
 ## Notes
 
